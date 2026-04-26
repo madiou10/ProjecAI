@@ -1,23 +1,22 @@
-# 🤖 ProjecAi
+# 🤖 ProjecAi — Site Vitrine
 
-Une application web de gestion de projet intégrant l'intelligence artificielle, développée dans le cadre d'un projet scolaire.
+Site web de présentation de **ProjecAi**, une application de gestion de projet intégrant l'intelligence artificielle. Projet réalisé dans le cadre d'un projet scolaire.
 
 ## 📌 Description
 
-**ProjecAi** est une application web qui permet de gérer des projets de manière intelligente grâce à l'intégration de l'intelligence artificielle. Elle aide les utilisateurs à organiser leurs tâches, suivre l'avancement de leurs projets et prendre de meilleures décisions grâce à des suggestions automatiques.
+Ce dépôt contient le **site vitrine** de ProjecAi. Il a pour objectif de présenter l'application, ses fonctionnalités et ses avantages aux visiteurs, de manière claire et attractive.
 
-## 🚀 Fonctionnalités
+## 🎯 Objectif du site
 
-- 📋 Création et gestion de projets
-- ✅ Suivi des tâches
-- 🤖 Suggestions intelligentes grâce à l'IA
-- 📊 Tableau de bord de suivi
+- Présenter l'application **ProjecAi** et sa valeur ajoutée
+- Donner envie aux utilisateurs de l'adopter
+- Expliquer les fonctionnalités clés de l'application
 
 ## 🛠️ Technologies utilisées
 
 - **HTML** — Structure des pages
 - **CSS** — Mise en forme et design
-- **JavaScript** — Interactivité et logique
+- **JavaScript** — Interactivité
 
 ## 📁 Structure du projet
 
@@ -28,7 +27,7 @@ ProjecAi/
 └── script.js
 ```
 
-## ▶️ Comment lancer le projet
+## ▶️ Comment voir le site
 
 1. Clonez le dépôt :
    ```bash

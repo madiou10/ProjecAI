@@ -41,4 +41,5 @@ Projet réalisé dans le cadre d'un projet scolaire.
 
 ## 👤 Auteur
 
-- **Votre Nom** — [GitHub](https://github.com/votre-username)
+- Travail du groupe 2 de L2IAGE
+- 

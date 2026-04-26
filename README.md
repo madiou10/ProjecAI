@@ -42,4 +42,7 @@ Projet réalisé dans le cadre d'un projet scolaire.
 ## 👤 Auteur
 
 - Travail du groupe 2 de L2IAGE
-- 
+- Thierno Madiou BALDE
+- Toutty Rassoul KHANE
+- Mame Diarra FALL
+- Ibrahima KONTE

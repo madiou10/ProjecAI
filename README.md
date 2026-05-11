@@ -41,8 +41,8 @@ Projet réalisé dans le cadre d'un projet scolaire.
 
 ## 👤 Auteur
 
-- Travail du groupe 2 de L2IAGE
+- Travail du groupe 3  de L2IAGE G1
 - Thierno Madiou BALDE
-- Toutty Rassoul KHANE
+- Toutty  KANE
 - Mame Diarra FALL
 - Ibrahima KONTE
